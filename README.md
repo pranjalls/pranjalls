@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjalls&label=Profile%20views&color=0e75b6&style=flat" alt="pranjalls" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently exploring **new technologies.**
 
 - 💬 Ask me about **HTML,css,javascript,node,react,express.**
 
